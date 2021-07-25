@@ -1,4 +1,4 @@
-# [infinite-scroll-gallery](https://codesandbox.io/s/infinite-scroll-gallery-o4sxi?file=/README.md)
+# [infinite-scroll-gallery](https://o4sxi.sse.codesandbox.io)(click to see demo)
 `ReactJs` `React SSR` `SASS` `IntersectionObserver Api` `NextJs` `NodeJs`
 
 Load more photo when photo list is scroll to the bottom.
